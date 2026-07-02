@@ -1,0 +1,1163 @@
+fileFormatVersion: 2
+guid: d168ca30ea7f67b47b6a86e83aa42a7a
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'anim' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'GRML_Spine1' has translation animation that will be
+      discarded.\n\t'GRML_Spine2' has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: GRML_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_UpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_UpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_Leg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_Leg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_Shoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_Shoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_Arm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_Arm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_ForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_ForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_ToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_ToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_Eye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_Eye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_Jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_HandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_HandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_HandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_HandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_HandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_HandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_HandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_HandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_HandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_HandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_HandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_HandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_HandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_HandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_L_HandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_HandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_HandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_HandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_HandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_HandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_HandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_HandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_HandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_HandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_HandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_HandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_HandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_HandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_HandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_R_HandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GRML_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: anim 1(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.00000026631602, y: 0.00000026631605, z: 0.0000002663162, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_Hips
+      parentName: anim 1(Clone)
+      position: {x: -0.0016641853, y: 0.9803302, z: -0.010408134}
+      rotation: {x: 0.3825599, y: -0.6532506, z: -0.34455076, w: 0.5551544}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_Spine
+      parentName: GRML_Hips
+      position: {x: -0.05292053, y: 0.001876831, z: -0.00003072262}
+      rotation: {x: 0.0058817845, y: -0.004342841, z: -0.123271115, w: 0.9923461}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_Spine1
+      parentName: GRML_Spine
+      position: {x: -0.11094581, y: 0.0031014823, z: -0.00014888286}
+      rotation: {x: 0.0025514897, y: -0.004217461, z: -0.16142134, w: 0.98687327}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_Spine2
+      parentName: GRML_Spine1
+      position: {x: -0.120793305, y: 0.0011569976, z: -0.000060606002}
+      rotation: {x: 0.0021444093, y: -0.0036577415, z: 0.007866078, w: 0.99996006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_Neck
+      parentName: GRML_Spine2
+      position: {x: -0.29697722, y: 0.00022942542, z: -0.000017971992}
+      rotation: {x: -0.05598395, y: -0.0058721867, z: -0.071671456, w: 0.9958386}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_Head
+      parentName: GRML_Neck
+      position: {x: -0.111975096, y: 0.00000057220456, z: 0.00000020980835}
+      rotation: {x: -0.08436633, y: 0.0068196994, z: 0.13670844, w: 0.98698866}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_HeadNub
+      parentName: GRML_Head
+      position: {x: -0.15672119, y: -0.00000012, z: 0.00002884}
+      rotation: {x: -0.0000009318834, y: -0.0000015980268, z: 0.00013954964, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: GRML_Jaw
+      parentName: GRML_Head
+      position: {x: -0.0024800098, y: 0.02439142, z: -0.00000473}
+      rotation: {x: -0.00000573197, y: 0.0000006743623, z: -0.7071053, w: 0.7071084}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_Tongue
+      parentName: GRML_Jaw
+      position: {x: -0.02680405, y: 0.012251343, z: -0.0000000044589927}
+      rotation: {x: -5.368296e-17, y: -6.794806e-17, z: 0.11648343, w: 0.9931927}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_Tongue1
+      parentName: GRML_Tongue
+      position: {x: -0.02006943, y: 0.00000014999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0.069369264, w: 0.9975911}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: GRML_Tongue2
+      parentName: GRML_Tongue1
+      position: {x: -0.018061578, y: 0.00000014999999, z: 0.00000014999999}
+      rotation: {x: 0, y: -0, z: -0.04000081, w: 0.9991996}
+      scale: {x: 0.9999998, y: 0.99999976, z: 1.0000001}
+    - name: GRML_JawEnd
+      parentName: GRML_Jaw
+      position: {x: -0.081624754, y: 0.03893598, z: 0.0000037454627}
+      rotation: {x: 0.000006496823, y: -0.0000014123914, z: 0.70710284, w: 0.7071108}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_LipLower
+      parentName: GRML_Jaw
+      position: {x: -0.078550555, y: -0.00011312544, z: 0.000003676293}
+      rotation: {x: 0.00006478, y: 0.00006477998, z: 0.7071067, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_LipLower
+      parentName: GRML_LipLower
+      position: {x: -0.00019011523, y: -0.002734633, z: -0.011408377}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_LipLower
+      parentName: GRML_LipLower
+      position: {x: -0.00019011807, y: -0.0027304653, z: 0.011409376}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_Eye
+      parentName: GRML_Head
+      position: {x: -0.067984015, y: 0.07003963, z: 0.029499104}
+      rotation: {x: -0.00000573197, y: 0.0000006743623, z: -0.7071053, w: 0.7071084}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_Eye
+      parentName: GRML_Head
+      position: {x: -0.06798449, y: 0.07003924, z: -0.029499939}
+      rotation: {x: -0.00000573197, y: 0.0000006743623, z: -0.7071053, w: 0.7071084}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_BrowOuter
+      parentName: GRML_Head
+      position: {x: -0.08833634, y: 0.08821515, z: 0.042273026}
+      rotation: {x: 0.000000043715023, y: -0.0000010291722, z: -0.000003532567, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_BrowOuter
+      parentName: GRML_Head
+      position: {x: -0.08833695, y: 0.08821458, z: -0.04227478}
+      rotation: {x: 0.000000043715023, y: -0.0000010291722, z: -0.000003532567, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_BrowInner
+      parentName: GRML_Head
+      position: {x: -0.08347614, y: 0.09949047, z: 0.015283768}
+      rotation: {x: 0.000000043715023, y: -0.0000010291722, z: -0.000003532567, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_BrowInner
+      parentName: GRML_Head
+      position: {x: -0.083476424, y: 0.099490285, z: -0.015285752}
+      rotation: {x: 0.000000043715023, y: -0.0000010291722, z: -0.000003532567, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_UpperEyelid
+      parentName: GRML_Head
+      position: {x: -0.07261217, y: 0.08558403, z: 0.029486155}
+      rotation: {x: 0.00008815062, y: 0.0000041280873, z: 0.000002130165, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_UpperEeylash
+      parentName: GRML_L_UpperEyelid
+      position: {x: -0.00331924, y: 0.00914268, z: -0.0000041199996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_UpperEyelid
+      parentName: GRML_Head
+      position: {x: -0.07261262, y: 0.08558365, z: -0.02948812}
+      rotation: {x: 0.00008815062, y: 0.0000041280873, z: 0.000002130165, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_UpperEeylash
+      parentName: GRML_R_UpperEyelid
+      position: {x: -0.00331833, y: 0.00914276, z: -0.00000855}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_LowerEyelid
+      parentName: GRML_Head
+      position: {x: -0.062991805, y: 0.0855837, z: 0.029485585}
+      rotation: {x: 0.00008815062, y: 0.0000041280873, z: 0.000002130165, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_LowerEyelash
+      parentName: GRML_L_LowerEyelid
+      position: {x: 0.0023768598, y: 0.00998188, z: -0.0000042799998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_LowerEyelid
+      parentName: GRML_Head
+      position: {x: -0.06299226, y: 0.08558332, z: -0.029487688}
+      rotation: {x: 0.00008815062, y: 0.0000041280873, z: 0.000002130165, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_LowerEyelash
+      parentName: GRML_R_LowerEyelid
+      position: {x: 0.00237747, y: 0.00998201, z: -0.00001013}
+      rotation: {x: -0.00008797642, y: -0.000005484068, z: -0.000005006307, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_Nose
+      parentName: GRML_Head
+      position: {x: -0.04070177, y: 0.122481555, z: -0.0000014568624}
+      rotation: {x: 0.000000043715023, y: -0.0000010291722, z: -0.000003532567, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_Nostril
+      parentName: GRML_Nose
+      position: {x: 0.010086828, y: -0.018061962, z: -0.016589664}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_Nostril
+      parentName: GRML_Nose
+      position: {x: 0.010087128, y: -0.01806174, z: 0.016589718}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_Cheek
+      parentName: GRML_Head
+      position: {x: -0.028133413, y: 0.08888096, z: 0.03581115}
+      rotation: {x: 0.000000043715023, y: -0.0000010291722, z: -0.000003532567, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_Cheek
+      parentName: GRML_Head
+      position: {x: -0.028133865, y: 0.08888049, z: -0.035813797}
+      rotation: {x: 0.000000043715023, y: -0.0000010291722, z: -0.000003532567, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_LipUpper
+      parentName: GRML_Head
+      position: {x: -0.006611048, y: 0.10981324, z: -0.0000016193721}
+      rotation: {x: 0.000000043715023, y: -0.0000010291722, z: -0.000003532567, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_LipUpper
+      parentName: GRML_LipUpper
+      position: {x: 0.0008189347, y: -0.004761983, z: -0.013509442}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_LipUpper
+      parentName: GRML_LipUpper
+      position: {x: 0.0008192503, y: -0.0047618025, z: 0.0135094905}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_LipCorner
+      parentName: GRML_Head
+      position: {x: 0.00016033337, y: 0.09198659, z: -0.023769584}
+      rotation: {x: 0.000000043715023, y: -0.0000010291722, z: -0.000003532567, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_LipCorner
+      parentName: GRML_Head
+      position: {x: 0.00016065477, y: 0.0919869, z: 0.023766482}
+      rotation: {x: 0.000000043715023, y: -0.0000010291722, z: -0.000003532567, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_Shoulder
+      parentName: GRML_Spine2
+      position: {x: -0.28367493, y: -0.017542925, z: -0.014821777}
+      rotation: {x: 0.67330074, y: -0.012832744, z: 0.7281538, w: 0.12764588}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_Arm
+      parentName: GRML_R_Shoulder
+      position: {x: -0.18584572, y: 0.0000018692016, z: -0.0000009155273}
+      rotation: {x: 0.46637347, y: -0.044600707, z: 0.084814675, w: 0.8793822}
+      scale: {x: 1, y: 0.999999, z: 1}
+    - name: GRML_R_ForeArm
+      parentName: GRML_R_Arm
+      position: {x: -0.27061638, y: -0.000020217894, z: 0.000018692017}
+      rotation: {x: 0.0000728079, y: 0.000023660117, z: 0.0012515505, w: 0.9999992}
+      scale: {x: 1, y: 0.999999, z: 1}
+    - name: GRML_R_Hand
+      parentName: GRML_R_ForeArm
+      position: {x: -0.26622215, y: 0.000007171631, z: 0.0000047302246}
+      rotation: {x: 0.38752112, y: 0.124751784, z: -0.10885283, w: 0.90687126}
+      scale: {x: 1, y: 1, z: 0.999998}
+    - name: GRML_R_HandRing1
+      parentName: GRML_R_Hand
+      position: {x: -0.086171724, y: -0.022987671, z: -0.01857787}
+      rotation: {x: -0.000010076384, y: -0.00000094809053, z: 0.0805696, w: 0.996749}
+      scale: {x: 1, y: 1, z: 0.999998}
+    - name: GRML_R_HandRing2
+      parentName: GRML_R_HandRing1
+      position: {x: -0.04293457, y: -0.0000030499998, z: -0.00000040999998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_HandRing3
+      parentName: GRML_R_HandRing2
+      position: {x: -0.02674263, y: -0.0000010699999, z: -0.00000028}
+      rotation: {x: 0.00008000039, y: 0.000053499396, z: -0.0000075042794, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_HandRingNub
+      parentName: GRML_R_HandRing3
+      position: {x: -0.02745842, y: -0.00000244, z: 0.00000443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_HandMiddle1
+      parentName: GRML_R_Hand
+      position: {x: -0.08854767, y: -0.026447598, z: 0.0049086}
+      rotation: {x: -0.00017408298, y: -0.000019682424, z: 0.0805696, w: 0.996749}
+      scale: {x: 1, y: 1, z: 0.999998}
+    - name: GRML_R_HandMiddle2
+      parentName: GRML_R_HandMiddle1
+      position: {x: -0.053358, y: 0.00000031, z: -0.00000012}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_HandMiddle3
+      parentName: GRML_R_HandMiddle2
+      position: {x: -0.027858509, y: 0.00000046, z: 0}
+      rotation: {x: -0.00010403323, y: -0.27692196, z: -0.8563892, w: 0.43578866}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_HandMiddleNub
+      parentName: GRML_R_HandMiddle3
+      position: {x: 0.5955399, y: -0.7168335, z: 0.23161748}
+      rotation: {x: -0.18841088, y: -0.08067088, z: 0.6429436, w: 0.7379818}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_HandPinky1
+      parentName: GRML_R_Hand
+      position: {x: -0.07806366, y: -0.01664368, z: -0.038087018}
+      rotation: {x: -0.000009679429, y: -0.000005858921, z: 0.0805696, w: 0.996749}
+      scale: {x: 1.000002, y: 1, z: 0.999998}
+    - name: GRML_R_HandPinky2
+      parentName: GRML_R_HandPinky1
+      position: {x: -0.03515083, y: -0.00000014999999, z: -0.000000109999995}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.999999}
+    - name: GRML_R_HandPinky3
+      parentName: GRML_R_HandPinky2
+      position: {x: -0.02073616, y: 0.00000061, z: 0.00000006}
+      rotation: {x: 0.000054999997, y: 0.00014199999, z: -0.00000000781, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_HandPinkyNub
+      parentName: GRML_R_HandPinky3
+      position: {x: -0.02171204, y: 0.00000014999999, z: 0.00000014}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_HandIndex1
+      parentName: GRML_R_Hand
+      position: {x: -0.0899768, y: -0.020999601, z: 0.03151016}
+      rotation: {x: -0.000009679429, y: -0.000005858921, z: 0.0805696, w: 0.996749}
+      scale: {x: 1, y: 1, z: 0.999998}
+    - name: GRML_R_HandIndex2
+      parentName: GRML_R_HandIndex1
+      position: {x: -0.044513848, y: -0.00000003, z: 0.00000014999999}
+      rotation: {x: 2.3399999e-10, y: 0.000051999996, z: -0.0000045, w: 1}
+      scale: {x: 1, y: 1, z: 0.999999}
+    - name: GRML_R_HandIndex3
+      parentName: GRML_R_HandIndex2
+      position: {x: -0.025512159, y: -0.000000109999995, z: 0}
+      rotation: {x: 0, y: 0.000065, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.999999}
+    - name: GRML_R_HandIndexNub
+      parentName: GRML_R_HandIndex3
+      position: {x: -0.02499603, y: 0.00000031, z: -0.00000046}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_HandThumb1
+      parentName: GRML_R_Hand
+      position: {x: -0.02375443, y: 0.00263184, z: 0.04707138}
+      rotation: {x: -0.37346405, y: 0.32289743, z: 0.210431, w: 0.84378946}
+      scale: {x: 0.999998, y: 1.000002, z: 1.000002}
+    - name: GRML_R_HandThumb2
+      parentName: GRML_R_HandThumb1
+      position: {x: -0.03579571, y: -0.00000076, z: -0.0000010699999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.999999}
+    - name: GRML_R_HandThumb3
+      parentName: GRML_R_HandThumb2
+      position: {x: -0.03350742, y: -0.00000008, z: -0.0000010699999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_HandThumbNub
+      parentName: GRML_R_HandThumb3
+      position: {x: -0.03376701, y: -0.000000603199, z: -0.00000045776366}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: GRML_R_WeaponHand
+      parentName: GRML_R_Hand
+      position: {x: -0.09128799, y: 0.0073895296, z: -0.00000122}
+      rotation: {x: 0.000037830192, y: 0.000009546043, z: -0.7071049, w: 0.7071087}
+      scale: {x: 1.0000001, y: 1, z: 1.000004}
+    - name: GRML_R_ForeArmTwist
+      parentName: GRML_R_ForeArm
+      position: {x: -0.1331113, y: 0.0000033473968, z: 0.0000024414062}
+      rotation: {x: -0.00002479553, y: -0.0000001192152, z: -0.00000023841562, w: 1}
+      scale: {x: 1.0000002, y: 0.99999946, z: 1.0000005}
+    - name: GRML_R_ArmTwist
+      parentName: GRML_R_Arm
+      position: {x: -0.13530819, y: -0.000010194778, z: 0.000009460449}
+      rotation: {x: 0.000036485308, y: 0.00000013315805, z: -4.8582514e-12, w: 1}
+      scale: {x: 1, y: 0.9999989, z: 0.9999997}
+    - name: GRML_L_Shoulder
+      parentName: GRML_Spine2
+      position: {x: -0.2836801, y: -0.01755085, z: 0.014778891}
+      rotation: {x: 0.70334274, y: -0.10851056, z: -0.70027876, w: -0.056072596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_Arm
+      parentName: GRML_L_Shoulder
+      position: {x: -0.18584609, y: 0.0000017166137, z: -0.0000032043456}
+      rotation: {x: -0.44915724, y: 0.009354428, z: 0.038656134, w: 0.8925671}
+      scale: {x: 1, y: 0.999999, z: 1}
+    - name: GRML_L_ForeArm
+      parentName: GRML_L_Arm
+      position: {x: -0.2706144, y: -0.000010910034, z: -0.00001739502}
+      rotation: {x: -0.000076204546, y: 0.00081770966, z: 0.00048642003, w: 0.9999996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_Hand
+      parentName: GRML_L_ForeArm
+      position: {x: -0.26622212, y: 0.00001335144, z: -0.000005264282}
+      rotation: {x: -0.4538183, y: -0.05413789, z: -0.051465053, w: 0.88795805}
+      scale: {x: 0.999999, y: 1, z: 0.999999}
+    - name: GRML_L_HandThumb1
+      parentName: GRML_L_Hand
+      position: {x: -0.02376091, y: 0.0026330599, z: -0.047078397}
+      rotation: {x: 0.37346438, y: -0.3228971, z: 0.21043102, w: 0.84378946}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_HandThumb2
+      parentName: GRML_L_HandThumb1
+      position: {x: -0.03579556, y: -0.00000099, z: -0.00000153}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.999999}
+    - name: GRML_L_HandThumb3
+      parentName: GRML_L_HandThumb2
+      position: {x: -0.033507388, y: -0.00000023, z: -0.00000122}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.999999}
+    - name: GRML_L_HandThumbNub
+      parentName: GRML_L_HandThumb3
+      position: {x: -0.03376701, y: -0.000000603199, z: -0.00000045776366}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_HandIndex1
+      parentName: GRML_L_Hand
+      position: {x: -0.0899836, y: -0.02099869, z: -0.03151642}
+      rotation: {x: 0.000009679429, y: 0.000005858921, z: 0.0805696, w: 0.996749}
+      scale: {x: 0.999999, y: 1, z: 1}
+    - name: GRML_L_HandIndex2
+      parentName: GRML_L_HandIndex1
+      position: {x: -0.04451363, y: 0.0000010699999, z: 0.00000012999999}
+      rotation: {x: 0, y: -0, z: -0.000021999998, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_HandIndex3
+      parentName: GRML_L_HandIndex2
+      position: {x: -0.02551239, y: -0.00000046, z: -0.00000002}
+      rotation: {x: -0.000057524263, y: -0.00006817694, z: 0.00000026239428, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_HandIndexNub
+      parentName: GRML_L_HandIndex3
+      position: {x: -0.02499603, y: 0.00000061, z: -0.00000046}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_HandMiddle1
+      parentName: GRML_L_Hand
+      position: {x: -0.088554, y: -0.02644684, z: -0.00491547}
+      rotation: {x: 0.00017408298, y: 0.000019682424, z: 0.0805696, w: 0.996749}
+      scale: {x: 0.999999, y: 1, z: 1}
+    - name: GRML_L_HandMiddle2
+      parentName: GRML_L_HandMiddle1
+      position: {x: -0.05335793, y: 0.00000092, z: -0.00000016999999}
+      rotation: {x: 0, y: -0, z: -0.0000115, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_HandMiddle3
+      parentName: GRML_L_HandMiddle2
+      position: {x: -0.027858578, y: 0.00000014999999, z: -0.00000001}
+      rotation: {x: -0.0001056726, y: 0.276253, z: -0.8566187, w: 0.43576226}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_HandMiddleNub
+      parentName: GRML_L_HandMiddle3
+      position: {x: 0.5956332, y: -0.71691144, z: -0.23139504}
+      rotation: {x: 0.18855894, y: 0.08092365, z: 0.6429001, w: 0.7379542}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_HandPinky1
+      parentName: GRML_L_Hand
+      position: {x: -0.07807014, y: -0.016642889, z: 0.0380806}
+      rotation: {x: 0.000009679429, y: 0.000005858921, z: 0.0805696, w: 0.996749}
+      scale: {x: 0.999999, y: 1, z: 1}
+    - name: GRML_L_HandPinky2
+      parentName: GRML_L_HandPinky1
+      position: {x: -0.03515045, y: 0.00000075, z: -0.00000016}
+      rotation: {x: -0.000016927335, y: -0.00015306477, z: -0.000002500804, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_HandPinky3
+      parentName: GRML_L_HandPinky2
+      position: {x: -0.020736229, y: 0.00000023, z: -0.00000004}
+      rotation: {x: 0.00011704593, y: -0.00014700649, z: 0.000000017206512, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_HandPinkyNub
+      parentName: GRML_L_HandPinky3
+      position: {x: -0.02171204, y: 0.00000014999999, z: 0.00000012999999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: GRML_L_HandRing1
+      parentName: GRML_L_Hand
+      position: {x: -0.08617851, y: -0.0229866, z: 0.01857161}
+      rotation: {x: 0.000010087112, y: 0.00000081536535, z: 0.0805696, w: 0.996749}
+      scale: {x: 0.999999, y: 1, z: 1}
+    - name: GRML_L_HandRing2
+      parentName: GRML_L_HandRing1
+      position: {x: -0.04293449, y: -0.00000244, z: -0.00000049}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_HandRing3
+      parentName: GRML_L_HandRing2
+      position: {x: -0.026742779, y: -0.00000153, z: -0.00000033}
+      rotation: {x: -0.000082969156, y: -0.00006759229, z: -0.000007504577, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_HandRingNub
+      parentName: GRML_L_HandRing3
+      position: {x: -0.0274585, y: -0.00000259, z: 0.00000443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: GRML_L_WeaponHand
+      parentName: GRML_L_Hand
+      position: {x: -0.09129005, y: 0.00738892, z: -0.00001129}
+      rotation: {x: 0.7071065, y: 0.7071071, z: -0.000039169292, w: 0.000009039087}
+      scale: {x: 1, y: 0.99999994, z: 1.0000019}
+    - name: GRML_L_ForeArmTwist
+      parentName: GRML_L_ForeArm
+      position: {x: -0.13311122, y: 0.0000066804882, z: -0.0000025939942}
+      rotation: {x: 0.000024754649, y: 0.00000002234685, z: -0.0000002597676, w: 1}
+      scale: {x: 0.99999976, y: 1.0000004, z: 1.0000001}
+    - name: GRML_L_ArmTwist
+      parentName: GRML_L_Arm
+      position: {x: -0.1353072, y: -0.0000056314466, z: -0.000009002685}
+      rotation: {x: -0.000036478043, y: -0.00000011921364, z: -0.000000119204934, w: 1}
+      scale: {x: 1, y: 0.9999988, z: 0.9999999}
+    - name: GRML_L_UpLeg
+      parentName: GRML_Hips
+      position: {x: 0.0054631806, y: -0.018457144, z: 0.08719984}
+      rotation: {x: 0.13397504, y: 0.98262537, z: -0.12823342, w: -0.0073743314}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_Leg
+      parentName: GRML_L_UpLeg
+      position: {x: -0.45435628, y: 0.0000004673004, z: 0.000010299683}
+      rotation: {x: 0.000016170832, y: -0.000011048197, z: 0.18495356, w: 0.98274726}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_Foot
+      parentName: GRML_L_Leg
+      position: {x: -0.4464519, y: -0.000005097389, z: 0.0000050163267}
+      rotation: {x: -0.22470362, y: 0.030255735, z: -0.0836067, w: 0.97036225}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_ToeBase
+      parentName: GRML_L_Foot
+      position: {x: -0.05140937, y: 0.14538155, z: 0.000012569427}
+      rotation: {x: 0.00020484177, y: 0.00020465707, z: -0.70638716, w: 0.70782566}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_L_ToeBaseNub
+      parentName: GRML_L_ToeBase
+      position: {x: -0.051063545, y: -0.000000095367426, z: -0.0000041913986}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1}
+    - name: GRML_L_ToetCont1
+      parentName: GRML_L_ToeBase
+      position: {x: -0.08806999, y: -0.035837345, z: 0.054740064}
+      rotation: {x: -0.49991253, y: -0.5000274, z: -0.49991253, w: 0.50014746}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: GRML_L_ToetCont2
+      parentName: GRML_L_ToeBase
+      position: {x: -0.08805119, y: -0.035837267, z: -0.055759925}
+      rotation: {x: -0.49991253, y: -0.5000274, z: -0.49991253, w: 0.50014746}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: GRML_L_FootCont1
+      parentName: GRML_L_Foot
+      position: {x: -0.08724871, y: 0.14538686, z: 0.054767746}
+      rotation: {x: 0.70710707, y: -0.0000032013354, z: 0.7071065, w: 0.0000032013381}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: GRML_L_FootCont3
+      parentName: GRML_L_Foot
+      position: {x: -0.087248646, y: 0.14538676, z: -0.055732254}
+      rotation: {x: 0.70710707, y: -0.0000032013354, z: 0.7071065, w: 0.0000032013381}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: GRML_L_FootCont2
+      parentName: GRML_L_Foot
+      position: {x: -0.087250516, y: -0.05527853, z: 0.054767918}
+      rotation: {x: 0.70710707, y: -0.0000032013354, z: 0.7071065, w: 0.0000032013381}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: GRML_L_FootCont4
+      parentName: GRML_L_Foot
+      position: {x: -0.08725045, y: -0.055278625, z: -0.05573207}
+      rotation: {x: 0.70710707, y: -0.0000032013354, z: 0.7071065, w: 0.0000032013381}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: GRML_L_LegTwist
+      parentName: GRML_L_Leg
+      position: {x: -0.22322595, y: -0.000002462864, z: 0.0000025177}
+      rotation: {x: -0.0000035952676, y: 0.00000026631514, z: 0.00000026631707, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: GRML_L_UpLegTwist
+      parentName: GRML_L_UpLeg
+      position: {x: -0.22717857, y: 0.00000024557113, z: 0.000005111694}
+      rotation: {x: 0.000006502976, y: -0.000000027852833, z: -0.0000000018624642, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: GRML_L_WeaponUpLeg
+      parentName: GRML_L_UpLeg
+      position: {x: -0.09788782, y: -0.08110208, z: -0.08114553}
+      rotation: {x: 0.5684544, y: 0.55447096, z: 0.4205837, w: -0.4387835}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_UpLeg
+      parentName: GRML_Hips
+      position: {x: 0.005498352, y: -0.018469086, z: -0.08719579}
+      rotation: {x: 0.15843685, y: 0.98090047, z: -0.049231756, w: -0.101529814}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_Leg
+      parentName: GRML_R_UpLeg
+      position: {x: -0.45435646, y: 0.00000025749205, z: -0.0000028038023}
+      rotation: {x: -0.00001283797, y: 0.000009424938, z: 0.19231221, w: 0.9813338}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_Foot
+      parentName: GRML_R_Leg
+      position: {x: -0.44645187, y: -0.0000046515465, z: 0.0000033950805}
+      rotation: {x: -0.055753063, y: -0.034391526, z: -0.1372724, w: 0.9883649}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GRML_R_ToeBase
+      parentName: GRML_R_Foot
+      position: {x: -0.051407665, y: 0.14538237, z: -0.0000025939942}
+      rotation: {x: 0.000001930922, y: 0.0000025075078, z: -0.7041143, w: 0.71008664}
+      scale: {x: 0.999999, y: 1, z: 1}
+    - name: GRML_R_ToeBaseNub
+      parentName: GRML_R_ToeBase
+      position: {x: -0.051068917, y: -0.000000114440915, z: -0.0000044488906}
+      rotation: {x: 6.123232e-17, y: 6.1232356e-17, z: 0.0000002663161, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: GRML_R_ToetCont2
+      parentName: GRML_R_ToeBase
+      position: {x: -0.08806402, y: -0.03583845, z: 0.05573288}
+      rotation: {x: 0.5000867, y: 0.4999429, z: 0.50008684, w: -0.4998836}
+      scale: {x: 1, y: 1.0000011, z: 1.0000001}
+    - name: GRML_R_ToetCont1
+      parentName: GRML_R_ToeBase
+      position: {x: -0.088054866, y: -0.035840224, z: -0.054771528}
+      rotation: {x: 0.5000867, y: 0.4999429, z: 0.50008684, w: -0.4998836}
+      scale: {x: 1, y: 1.0000011, z: 1.0000001}
+    - name: GRML_R_FootCont4
+      parentName: GRML_R_Foot
+      position: {x: -0.08724887, y: -0.055278864, z: 0.055736717}
+      rotation: {x: 0.7071067, y: -0.00033482214, z: 0.7071067, w: 0.00032295837}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.9999998}
+    - name: GRML_R_FootCont2
+      parentName: GRML_R_Foot
+      position: {x: -0.08725064, y: -0.055278394, z: -0.054767698}
+      rotation: {x: 0.7071067, y: -0.00033482214, z: 0.7071067, w: 0.00032295837}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.9999998}
+    - name: GRML_R_FootCont3
+      parentName: GRML_R_Foot
+      position: {x: -0.087247044, y: 0.14538649, z: 0.055737585}
+      rotation: {x: 0.7071067, y: -0.00033482214, z: 0.7071067, w: 0.00032295837}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.9999998}
+    - name: GRML_R_FootCont1
+      parentName: GRML_R_Foot
+      position: {x: -0.08724883, y: 0.145387, z: -0.05476683}
+      rotation: {x: 0.7071067, y: -0.00033482214, z: 0.7071067, w: 0.00032295837}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.9999998}
+    - name: GRML_R_LegTwist
+      parentName: GRML_R_Leg
+      position: {x: -0.2232259, y: -0.000002260208, z: 0.0000016784668}
+      rotation: {x: 0.0000037520037, y: -0.000000058975278, z: -4.6544005e-10, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 0.9999998}
+    - name: GRML_R_UpLegTwist
+      parentName: GRML_R_UpLeg
+      position: {x: -0.22717811, y: 0.00000020980835, z: -0.0000015354157}
+      rotation: {x: -0.000006437301, y: -0.00000011921004, z: -0.000000119208515, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000001}
+    - name: GRML_R_WeaponUpLeg
+      parentName: GRML_R_UpLeg
+      position: {x: -0.09787439, y: -0.081137635, z: 0.08112563}
+      rotation: {x: -0.42048255, y: -0.4388822, z: -0.5683572, w: 0.55456924}
+      scale: {x: 1, y: 0.9999998, z: 0.9999999}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

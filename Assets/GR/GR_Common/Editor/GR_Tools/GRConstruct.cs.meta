@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 18234cb4e5e15ac47926499d446605b1
+timeCreated: 1443536519
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 47436
+  packageName: GRML Base Timothy
+  packageVersion: 1.1
+  assetPath: Assets/GR/GR_Common/Editor/GR_Tools/GRConstruct.cs
+  uploadId: 265210
