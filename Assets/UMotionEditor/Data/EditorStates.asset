@@ -14,9 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: "UMotionEditor.dll::\u0389\u038A\u038A\u038A\u038A\u0389\u038A\u0389\u0389\u0389\u0389\u0389\u0389\u0389\u038A\u038A\u0389\u038A\u038A\u0389\u038A\u0389\u0389\u0389\u0389\u038A\u0389\u038A\u038A\u038A\u038A\u038A\u038A\u038A\u0389\u038A\u038A\u038A\u038A\u0389\u038A\u0389\u0389\u038A\u0389\u038A\u0389"
   GeneralStates:
     LoadedProjectGUID:
-      valueInternal: 54c4d19c8c9cbf14b828ab8f83d14df9
+      valueInternal: 81ef27e94a27af30baa672ae0ab908ef
     RecentlyOpenedProjectPath:
       valueInternal: Assets
     RecentlyOpenedProjectGUIDsList:
+    - valueInternal: 81ef27e94a27af30baa672ae0ab908ef
     - valueInternal: 54c4d19c8c9cbf14b828ab8f83d14df9
     - valueInternal: 3b10ca2bafc46444885cd5f196277f29
