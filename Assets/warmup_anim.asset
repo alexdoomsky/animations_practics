@@ -196,7 +196,7 @@ MonoBehaviour:
       VertexSize:
         valueInternal: 1
     ExportDestinationPath:
-      valueInternal: 
+      valueInternal: Assets/exported_anims
     Extension:
       UserCallback:
         valueInternal: 
@@ -260,9 +260,9 @@ MonoBehaviour:
       valueInternal: 0
     LocalPositionChannelList:
     - CurrentValue:
-        valueInternal: 1.5715902
+        valueInternal: 0
       ReferencePoseValue:
-        valueInternal: 1.5715902
+        valueInternal: 0
       PoseValueList: []
       ChannelPerClipList:
       - LayerList:
@@ -271,7 +271,7 @@ MonoBehaviour:
           newKeyListSerialized: 00000000
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 1.5715902
+            valueInternal: 0
           newKeyListSerialized: 00000000
       - LayerList:
         - CurrentOriginalValue:
@@ -282,9 +282,9 @@ MonoBehaviour:
             valueInternal: 1.5715902
           newKeyListSerialized: 00000000
     - CurrentValue:
-        valueInternal: 0.0000004258299
+        valueInternal: 0
       ReferencePoseValue:
-        valueInternal: 0.0000004258299
+        valueInternal: 0
       PoseValueList: []
       ChannelPerClipList:
       - LayerList:
@@ -293,7 +293,7 @@ MonoBehaviour:
           newKeyListSerialized: 00000000
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: 0.0000004258299
+            valueInternal: 0
           newKeyListSerialized: 00000000
       - LayerList:
         - CurrentOriginalValue:
@@ -304,9 +304,9 @@ MonoBehaviour:
             valueInternal: 0.0000004258299
           newKeyListSerialized: 00000000
     - CurrentValue:
-        valueInternal: -1.0370017
+        valueInternal: 0
       ReferencePoseValue:
-        valueInternal: -1.0370017
+        valueInternal: 0
       PoseValueList: []
       ChannelPerClipList:
       - LayerList:
@@ -315,7 +315,7 @@ MonoBehaviour:
           newKeyListSerialized: 00000000
       - LayerList:
         - CurrentOriginalValue:
-            valueInternal: -1.0370017
+            valueInternal: 0
           newKeyListSerialized: 00000000
       - LayerList:
         - CurrentOriginalValue:
@@ -65717,7 +65717,7 @@ MonoBehaviour:
       StartFrame:
         valueInternal: 0
       EndFrame:
-        valueInternal: 163
+        valueInternal: 159
       Speed:
         valueInternal: 1
       Loop:
